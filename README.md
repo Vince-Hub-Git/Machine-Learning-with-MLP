@@ -18,7 +18,7 @@ he activation for this model was 'relu' (rectifying non-linearity).
 
 <p align="center">
 Visualization <br/>
-<img src="https://i.imgur.com/AZ0salv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vmT79Tw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
