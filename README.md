@@ -1,6 +1,3 @@
-This was a machine learning visualization using Multi-Layer Perceptron that form part of a neural network. The purpose of this was create a classification model that captured non-linearity. The activation for this model was 'relu' (rectifying non-linearity).
-
-
 <h1> Machine Learning with MLP</h1>
 
 
